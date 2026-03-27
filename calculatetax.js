@@ -3,3 +3,4 @@ function calculateTax(amount){
     return amount *0.10
 }
 console.log(calculateTax(45))
+//output 4.5
